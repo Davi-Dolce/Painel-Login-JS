@@ -12,11 +12,11 @@ font-family:'Times New Roman', Times, serif
 background-color: darkgray;
 }
 #painel{
-    margin-top: 5%;
+    margin-top: 15%;
     margin-left: 38%;
     margin-right: 38%;
     text-align: center;
-    padding-top: 2%;
+    padding-top: 1.5%;
     background-color: gray;
     border-radius: 20px;
 }

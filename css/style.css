@@ -1,0 +1,22 @@
+#nav{
+padding-left: 23%;
+}
+#nav-g{
+color: white;
+background-color: gray;
+padding-top: 0.5%;
+padding-bottom: 0.5%;
+font-family:'Times New Roman', Times, serif
+}
+#body{
+background-color: darkgray;
+}
+#painel{
+    margin-top: 5%;
+    margin-left: 38%;
+    margin-right: 38%;
+    text-align: center;
+    padding-top: 2%;
+    background-color: gray;
+    border-radius: 20px;
+}
